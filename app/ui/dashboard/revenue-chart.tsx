@@ -29,7 +29,7 @@ export default async function RevenueChart() {
       </h2>
       {/* NOTE: comment in this code when you get to this point in the course */}
 
-      <div className="flex grow flex-col justify-between rounded-xl  border border-gray-950/25  bg-gray-50 p-4 shadow-lg">
+      <div className="flex grow flex-col justify-between rounded-xl  bg-gray-50 p-4 shadow-lg">
         <div className="mt-0 grid grid-cols-12 items-end gap-2 rounded-md bg-white p-4 sm:grid-cols-13 md:gap-4">
           <div
             className="mb-6 hidden flex-col justify-between text-sm text-gray-400 sm:flex"
